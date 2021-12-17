@@ -20,7 +20,7 @@ All libraries are available in Anaconda distribution of Python. The used librari
 
 ### Project Motivation<a name="Motivation"></a>
 
-Customer segmentation is the process of dividing customers into subgroups based on their shopping behaviours and other attributes. In this assignment, given monthly transaction history for 30 customers across 12 products Jan 2017 to Oct 2020 of a business, the goal is to segment the customers into groups to gather insights based on their transaction behaviour using standard approaches: EDA, feature engineering, model selection & validation. 
+Customer segmentation is the process of dividing customers into subgroups based on their shopping behaviours and other attributes. In this assignment, given monthly transaction history for 30 customers across 12 products from Jan 2017 to Oct 2020 of a business, the goal is to segment the customers into groups to gather insights based on their transaction behaviour using standard approaches: EDA, feature engineering, model selection & validation. 
 
 
 
